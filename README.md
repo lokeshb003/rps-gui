@@ -5,5 +5,6 @@ Requirements :
   2. random ( pip install random)
 
 How to Execute the program? ( Simple ) 
-    python3 Rock-Paper-Scissors.py
+    
+     python3 Rock-Paper-Scissors.py
 
